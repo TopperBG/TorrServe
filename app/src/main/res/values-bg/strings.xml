@@ -38,6 +38,7 @@
     <string name="enable_ipv6_desc">Разрешете, само ако се поддържа от Интернет доставчика</string>
     <string name="enable_debug">Лог файлове с дебъг информация за TorrServer</string>
     <string name="enable_responsive_mode">Режим на отзивчив четец</string>
+    <string name="show_only_active_torrents_fs">Показвай само активните торенти във файловата система</string>
     <string name="enable_dlna">DLNA Медия сървър</string>
     <string name="dlna_friendly_name">DLNA Име на сървъра</string>
     <string name="dlna_name_hint">Оставете празно, за да използвате по подразбиране</string>
@@ -175,6 +176,9 @@
     <string name="root_start_title">Стартиране на сървърът като root</string>
     <string name="root_start_sum_on">Разрешено стартиране на сървърът като root</string>
     <string name="root_start_sum_off">Забранено стартиране на сървърът като root</string>
+    <string name="webdav_start_title">Стартиране на сървъра с WebDAV</string>
+    <string name="webdav_start_sum_on">Стартиране на сървъра: WebDAV е включен</string>
+    <string name="webdav_start_sum_off">Стартиране на сървъра: WebDAV е изключен</string>
     <string name="choose_player_title">Избор на Плеър</string>
     <string name="show_banner_title">Покажи банер</string>
     <string name="show_banner_sum_on">Покажи банер при зареждане на торент</string>

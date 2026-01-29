@@ -38,6 +38,7 @@
     <string name="enable_ipv6_desc">Включите только если поддерживается</string>
     <string name="enable_debug">Подробный лог сервера</string>
     <string name="enable_responsive_mode">Включить быстрый режим чтения</string>
+    <string name="show_only_active_torrents_fs">Отображать в файловой системе только активные торренты</string>
     <string name="enable_dlna">DLNA-медиасервер</string>
     <string name="dlna_friendly_name">Имя сервера DLNA</string>
     <string name="dlna_name_hint">Оставьте пустым, чтобы использовать значение по умолчанию.</string>
@@ -175,6 +176,9 @@
     <string name="root_start_title">Запускать сервер от root</string>
     <string name="root_start_sum_on">Запускать сервер от root, чтобы система не могла остановить его</string>
     <string name="root_start_sum_off">Не запускать сервер от root</string>
+    <string name="webdav_start_title">Запустить сервер с WebDAV</string>
+    <string name="webdav_start_sum_on">Запустить сервер: WebDAV включён</string>
+    <string name="webdav_start_sum_off">Запустить сервер: WebDAV выключен</string>
     <string name="choose_player_title">Выбор плеера</string>
     <string name="show_banner_title">Показывать баннер</string>
     <string name="show_banner_sum_on">Показывать баннер при загрузке торрента</string>
